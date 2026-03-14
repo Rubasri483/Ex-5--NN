@@ -4,7 +4,7 @@
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
-To implement a XOR gate classification using Radial Basis Function  Neural Network.
+To implement a XOR gate classification using Radial Basis Function  Neural Network
 
 <H3>Theory:</H3>
 <P>Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows XOR truth table </P>
